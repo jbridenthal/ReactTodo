@@ -1,3 +1,6 @@
+# Todo list using React with local browser storage
+Uses bootstrap font awesome
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
